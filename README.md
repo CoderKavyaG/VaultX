@@ -11,11 +11,16 @@ Gaming is a **multi-billion-dollar** industry with millions of players across th
 **Example:**  
 Tired of the cops in GTA Vice City? Just type **"Leave me alone"** and watch your troubles disappear! 🚓💨
 
+<img alt="vaultx" width="1000" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 ## 🚀 Features
 
 - **Instant Game Cheats and Tips:** Ask for cheats and tricks in your favorite games, from retro classics to the latest AAA titles.
+  
 - **Comprehensive Game Guides:** Level up with detailed walkthroughs, character builds, strategies, and more.
+  
 - **Community Hub:** Connect with other gamers, share experiences, and discuss strategies to conquer any challenge.
+  
 - **Continuous Updates:** We're constantly expanding the VaultX database to include the latest games and most popular cheats and tips!
 
 ## 🎯 Why VaultX?
